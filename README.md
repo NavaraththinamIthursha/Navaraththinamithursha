@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Ithursha Navaraththinam
 
-<!--
-**NavaraththinamIthursha/Navaraththinamithursha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Data Science Student at [Sabaragamuwa university]
+- 💻 Passionate about **Python | Flask | Web Development**
+- 🌱 Currently learning **AI & Data Science**
+- 📫 Reach me at: **navaraththinamithursha@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Python, Java,  SQL  
+- **Web Development:** HTML, CSS, JavaScript, Flask  
+- **Database:** MySQL  
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+
+### 🌟 Projects
+- 🔹 [Agri Helper - Flask Project](https://github.com/Navaraththinamithursha/agri-helper)  
+- 
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navaraththinamithursha&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaraththinamithursha&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ithursha-navaraththinam)  
+- [Email](mailto:navaraththinamithursha@gmail.com)  
